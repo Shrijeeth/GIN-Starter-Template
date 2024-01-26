@@ -1,0 +1,7 @@
+*.env
+*.idx
+*.vscode
+*.firebaserc
+vendor/
+coverage/
+out/
